@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">languageSplit</string>
+    <string name="string_1">这是字符串1</string>
+    <string name="string_2">这是字符串2</string>
+    <string name="string_3">这是字符串3</string>
+    <string name="string_4">这是字符串4</string>
+</resources>
